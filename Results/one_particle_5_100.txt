@@ -1,0 +1,6 @@
+n = 100
+rho_max = 5
+min1 = 2.99923
+min2 = 6.99617
+min3 = 10.9908
+elapsed time: = 2s
